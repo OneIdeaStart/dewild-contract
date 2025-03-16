@@ -1,0 +1,10 @@
+{
+  "chainId": "84532",
+  "contracts": {
+    "DeWildClub": "0xe10Ba5a1C8A15ea25D4993C8B6BE34ECBDb5C82f",
+    "DeWildMinter": "0x312cFf4F3Ba079b41C47FB5B8C8f3577DB01F690",
+    "RoyaltySplitter": "0x20868C03Be6736E74233C44739C8533608754E72",
+    "PrimarySaleMarket": "0x242DfD8ebC14Cd668Ed2b1B65a23551831b40e42"
+  },
+  "deployedAt": "2025-03-07T00:05:33.006Z"
+}
